@@ -1,0 +1,3 @@
+Download the zipped data.
+Unzip the data.
+Read relevant data files, including "Y_test.txt", "Y_train.txt", "X_test.txt", "X_train.txt", "subject_test.txt" and "subject_train.txt"
